@@ -1,16 +1,8 @@
-# git_tutorial
+# Udemy Flutter Course
 
-A new Flutter project.
+This is the first app I developed by progressing in my Flutter Course.
 
-## Getting Started
+## What is it about?
 
-This project is a starting point for a Flutter application.
+This project is an app which asks you 3 sets of questions and assumes your personality based on your answers!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
